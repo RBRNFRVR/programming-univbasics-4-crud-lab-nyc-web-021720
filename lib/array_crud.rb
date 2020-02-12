@@ -43,6 +43,6 @@ def retrieve_last_element_from_array(array)
   array[-1]
 end
 
-def update_element_from_index(new_array, index_number, element)
+def update_element_from_index(array, index_number, element)
 new_array[1] = "Tasmanian Devil"
 end
