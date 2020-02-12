@@ -45,5 +45,4 @@ end
 
 def update_element_from_index(array, index_number, element)
 new_array [2] = "Tasmanian Devil"
-p new_array
 end
